@@ -1,0 +1,19 @@
+-- create database oneTest;
+-- use oneTest;
+
+-- create table users(
+-- id int auto_increment,
+-- fullName varchar(255),
+-- phone varchar(255),
+-- title varchar(255),
+-- concat varchar(255),
+-- pic varchar(255),
+-- primary key (id)
+-- );
+
+
+
+-- INSERT INTO users (fullName,phone,title,concat,pic)
+ -- VALUES ("Dan Smith", "(123) 745-526657","Mr", "Dan Smith (123) 745-526657","https://randomuser.me/api/portraits/men/82.jpg"),
+ -- 	   ("Alex Alvarez", "(123) 542-5634271", "Mr", "Alex Alvarez (123) 542-5634271","https://randomuser.me/api/portraits/men/32.jpg"),
+ --        ("Norman Dirtic", "(724) 124-88573", "Ms","Norman Dirtic (724) 124-88573","https://randomuser.me/api/portraits/men/42.jpg");
